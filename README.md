@@ -7,5 +7,5 @@ See **Readme.html**
 
 Download ZIP
 ------------
-Si vous téléchargez le zip depuis GitHub, n'oubliez pas de renommer le dossier `thelia-tinymce4-master` en `tinymce4` avant d'uploader le fichier archive dans votre interface d'administration.
+Si vous téléchargez le zip depuis GitHub, n'oubliez pas de renommer le dossier `thelia-tinymce4-master` en `tinymce4` avant d'uploader le fichier archive dans votre interface d'administration **Gestion des plugins**.
 
