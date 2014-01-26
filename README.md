@@ -7,5 +7,5 @@ See **Readme.html**
 
 Download ZIP
 ------------
-If you download zip from GitHub, don't forget to rename the directory `thelia-tinymce4-master` to `tinymce4` in the archive zip.
+If you download zip from GitHub, don't forget to rename the directory `thelia-tinymce4-master` to `tinymce4` in the zip archive.
 
