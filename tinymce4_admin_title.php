@@ -4,7 +4,7 @@
  *
  * @package	Thelia
  * @author	Benoit Asselin <contact@ab-d.fr>
- * @version	tinymce4_admin_title.php, 2014/01/21
+ * @version	tinymce4_admin_title.php, 2014/01/26
  * @link	http://www.ab-d.fr/
  *
  */

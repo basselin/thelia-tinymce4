@@ -4,7 +4,7 @@
  *
  * @package	Thelia
  * @author	Benoit Asselin <contact@ab-d.fr>
- * @version	Tinymce4.class.php, 2014/01/21
+ * @version	Tinymce4.class.php, 2014/01/26
  * @link	http://www.ab-d.fr/
  *
  */
@@ -33,7 +33,7 @@ class Tinymce4 extends PluginsClassiques {
 	 * Version du module
 	 * @return string
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.0.1';
 	
 	
 	

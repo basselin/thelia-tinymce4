@@ -2,7 +2,7 @@
 session_start();
 
 
-// $thelia
+// $thelia_
 include_once(realpath(dirname(__FILE__)) . '/../../Tinymce4.class.php');
 extract(Tinymce4::pre_config());
 
