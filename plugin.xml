@@ -2,7 +2,7 @@
 <plugin>
   <descriptif lang="fr">
     <titre>TinyMCE 4</titre>
-    <chapo>Utiliser TinyMCE 4 et ResponsiveFilemanager 9 dans votre interface d'administration</chapo>
+    <chapo>Utiliser TinyMCE 4 et Responsive Filemanager 9 dans votre interface d'administration</chapo>
     <description>Module de TinyMCE4.</description>
     <postscriptum></postscriptum>
   </descriptif>
