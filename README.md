@@ -11,3 +11,16 @@ Si vous téléchargez le zip depuis GitHub, n'oubliez pas de renommer le dossier
 
 Si vous utilisez déjà un éditeur WYSIWYG, pensez à le **Désactiver** pour éviter tout conflit (il n'est pas nécessaire de le supprimer).
 
+
+Changelog
+---------
+
+**Version 1.0.2**
+* TinyMCE 4.0.15
+
+**Version 1.0.1**
+* Adaptation pour GitHub
+
+**Version 1.0.0**
+* TinyMCE 4.0.12
+* Responsive Filemanager 9.3.2

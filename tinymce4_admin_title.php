@@ -3,7 +3,7 @@
  * Plugin TinyMCE 4 Thelia 1.5
  *
  * @package	Thelia
- * @author	Benoit Asselin <contact(at)ab-d.fr>
+ * @author	Benoit Asselin, contact(at)ab-d.fr
  * @version	tinymce4_admin_title.php, 2014/01/30
  * @link	http://www.ab-d.fr
  *

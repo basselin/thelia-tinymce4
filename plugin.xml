@@ -6,11 +6,11 @@
     <description>Module de TinyMCE4.</description>
     <postscriptum></postscriptum>
   </descriptif>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <auteur>
     <nom>Benoit Asselin</nom>
     <societe></societe>
-    <email>contact@ab-d.fr</email>
+    <email>contact(at)ab-d.fr</email>
     <web>http://www.ab-d.fr</web>
   </auteur>
   <type>classique</type>

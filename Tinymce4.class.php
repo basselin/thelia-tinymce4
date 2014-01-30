@@ -3,8 +3,8 @@
  * Plugin TinyMCE 4 Thelia 1.5
  *
  * @package	Thelia
- * @author	Benoit Asselin <contact(at)ab-d.fr>
- * @version	Tinymce4.class.php, 2014/01/26
+ * @author	Benoit Asselin, contact(at)ab-d.fr
+ * @version	Tinymce4.class.php, 2014/01/30
  * @link	http://www.ab-d.fr
  *
  */
@@ -33,7 +33,7 @@ class Tinymce4 extends PluginsClassiques {
 	 * Version du module
 	 * @return string
 	 */
-	const VERSION = '1.0.1';
+	const VERSION = '1.0.2';
 	
 	
 	
