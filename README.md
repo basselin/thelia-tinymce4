@@ -1,7 +1,7 @@
 TinyMCE 4 for Thelia 1.5
 ========================
 
-Using TinyMCE 4 &amp; Responsive Filemanage 9 in Thelia 1.5
+Using TinyMCE 4 &amp; Responsive Filemanager 9 in Thelia 1.5
 
 See **Readme.html** for details.
 
@@ -12,14 +12,18 @@ Si vous téléchargez le zip depuis GitHub, n'oubliez pas de renommer le dossier
 Si vous utilisez déjà un éditeur WYSIWYG, pensez à le **Désactiver** pour éviter tout conflit (il n'est pas nécessaire de le supprimer).
 
 
+Packages versions
+-----------------
+
+* TinyMCE 4.0.16
+* Responsive Filemanager 9.3.2
+
+
 Changelog
 ---------
 
 **Version 1.0.3** (2014-01-31)
 * TinyMCE 4.0.16
-
-**Version 1.0.2** (2014-01-30)
-* TinyMCE 4.0.15
 
 **Version 1.0.1** (2014-01-27)
 * Adaptation pour GitHub
@@ -27,3 +31,4 @@ Changelog
 **Version 1.0** (2014-01-21)
 * TinyMCE 4.0.12
 * Responsive Filemanager 9.3.2
+
