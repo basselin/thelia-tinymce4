@@ -52,6 +52,7 @@ define('lang_Cancel','Annuler');
 define('lang_Sorting','Trier');
 define('lang_Show_url','Afficher l\'URL');
 define('lang_Extract','Extraire ici');
-define('lang_File_info','Informations');
+define('lang_File_info','Information');
 define('lang_Edit_image','Editer l\'image');
 define('lang_Duplicate','Dupliquer');
+?>
