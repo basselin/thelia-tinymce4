@@ -12,10 +12,10 @@ Si vous téléchargez le zip depuis GitHub, n'oubliez pas de renommer le dossier
 Si vous utilisez déjà un éditeur WYSIWYG, pensez à le **Désactiver** pour éviter tout conflit (il n'est pas nécessaire de le supprimer).
 
 
-Packages versions (2014-04-21)
+Packages versions (2014-04-24)
 ------------------------------
 
-* TinyMCE **4.0.22**
+* TinyMCE **4.0.23**
 * Responsive Filemanager **9.3.4**
 
 
